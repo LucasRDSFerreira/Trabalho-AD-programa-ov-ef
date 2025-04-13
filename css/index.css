@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(70, 23, 87);
+}
+section{
+    width: 90%;
+    height: 80vh;
+    background-color:rgb(70, 23, 87) ;
+    margin-top: 5vh;
+    margin-left: 5%;
+}
+section article{
+    width: 30%;
+    height: 83.9vh;
+    background-color: rgb(192, 33, 231);
+    margin-left: 35%;
+    border-radius: 20px;
+    border: solid 7px #fff;
+}
+section article h1{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin-left: 24%;
+    font-size: 1.8em;
+    background-color:;
+    width: auto;
+}
+main article h2{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin-left: 36%;
+    font-size: 1.8em;
+    width: auto;
+}
+main article p{
+    width: 60%;
+    margin-left: 23%;
+    font-size: 1.5em;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+main article button{
+    width: 100%;
+    height: 10vh;
+    font-size: 2em;
+    height: 14.4vh;
+    border-radius: 20px;
+}
+section main{
+
+}
+section img{
+    width: 45%;
+   height: 30vh;
+   margin-left: 27.5%;
+   margin-top: 0.4vh;
+   background-color:rgb(255, 255, 255);
+   border-radius: 20px;
+}
+section main{
+
+}
